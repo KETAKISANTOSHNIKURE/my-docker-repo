@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/Ketaki_todo.png)
+![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 
 ![Ketaki_todo_App]https://raw.github.com/KETAKISANTOSHNIKURE/my-docker-repo/blob/develop/staticfiles/Ketaki_todo.png
 
