@@ -3,7 +3,8 @@ A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/Ketaki_todo.png)
 
-![Ketaki_todo_App]https://raw.githubusercontent.com/KETAKISANTOSHNIKURE/my-docker-repo/blob/develop/staticfiles/Ketaki_todo.png
+![Ketaki_todo_App]https://raw.github.com/KETAKISANTOSHNIKURE/my-docker-repo/blob/develop/staticfiles/Ketaki_todo.png
+
 
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
@@ -68,6 +69,8 @@ iii. Now, to download the latest Jenkins package
 
 `sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key`
 
+(https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/Ketaki_jenkins.png)
+
 v. Install Jenkins on the EC2 instance
 
 `sudo yum install jenkins`
@@ -94,6 +97,7 @@ cd /var/lib/jenkins/secrets/
 x. To stop Jenkins service
 
 `sudo service jenkins stop`
+
 
 ### Jenkins using Docker
 
