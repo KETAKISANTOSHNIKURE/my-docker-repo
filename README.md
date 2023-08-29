@@ -1,10 +1,9 @@
 # django-todo
 A simple todo app built with django
-![image](https://github.com/KETAKISANTOSHNIKURE/my-docker-repo/assets/133886525/566f65c2-b1d1-43dc-9c0c-4eca52c8a502)
+![todo_App_Docker](https://github.com/KETAKISANTOSHNIKURE/my-docker-repo/assets/133886525/566f65c2-b1d1-43dc-9c0c-4eca52c8a502)
 
-https://github.com/KETAKISANTOSHNIKURE/my-docker-repo/blob/f04a17454d561332edf2fef8076eb14762385f3f/staticfiles/Ketaki_todo.png
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+
 
 ![Ketaki_todo_App]https://raw.github.com/KETAKISANTOSHNIKURE/my-docker-repo/blob/develop/staticfiles/Ketaki_todo.png
 
